@@ -1,0 +1,170 @@
+.wiki_logo{
+    width: 180px;
+    height: 80px;
+    margin-left: 2rem;
+}
+
+.wiki_mundo{
+    width: 820px;
+    height: 320px;
+    margin-left: 20%;
+    margin-right: auto;
+}
+body{
+    background-color: #EFEFEF;
+}
+.discover{
+    margin-top: 5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.titulo_index_1{
+    width: 35%;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 36%;
+    margin-right: 30%;
+}
+.titulo_index_2{
+    width: 35%;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 40%;
+    margin-right: 30%;
+}
+.hr_index_1{
+    width: 320px;
+    height: 4px;
+    margin-left: 33rem;
+    margin-right: 27rem;
+    background-color: black;
+}
+.hr_index_2{
+    width: 270px;
+    height: 4px;
+    margin-left: 35rem;
+    margin-right: 27rem;
+    background-color: black;
+}
+.central_index{
+    margin-top: 8rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.div_texto_index{
+    margin-top: 5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.topico_index{
+    width: 125x;
+    height: 10px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 2rem;
+}
+.texto_index{
+    width: 1290px;
+    height: 30px;
+    text-indent: 1.5rem;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+.pagina{
+    width: auto;
+    height: auto;
+    background-color: #FFFFFF;
+    margin-top: -2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 4rem;
+}
+
+.titulo_pagina{
+    width: 420px;
+    height: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.hr_pagina{
+    width: auto;
+    height: 0.15px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    background-color: #CCCCCC;
+}
+
+.tabela{
+    width: 190px;
+    height: 190px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    border: 0.5px solid #000000;
+}
+
+.tabela_indice{
+    width: 190px;
+    height: 20%;
+    background-color: cornflowerblue;
+    border-bottom: 0.5px solid #000000;
+}
+
+.tabela_corpo{
+    width: 190px;
+    height: 75%;
+    border-style: solid;
+    border-top: 0.5px;
+    border-bottom: 0.5px;
+    border-left: 0.5px;
+    border-right: 0.5px;
+}
+
+ul li{
+    font-family: "Montserrat", sans-serif;
+    font-weight: light;
+    border-style: hidden;
+}
+
+.texto_pagina{
+    width: auto;
+    height: 140px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: light;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.topico_pagina_1{
+    width: 320px;
+    height: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 0.3px;
+    font-size: xx-large;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    margin-left: 3.5rem;
+    margin-right: 2rem;
+}
+
+.topico_pagina_2{
+    width: 320px;
+    height: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    margin-left: 3.5rem;
+    margin-right: 2rem;
+}
+.topico_tabela{
+    color:#000000
+}
